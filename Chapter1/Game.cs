@@ -3,7 +3,7 @@ using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Input;
 
-namespace Chapter1
+namespace Chapter1_1
 {
     class Game : GameWindow
     {
