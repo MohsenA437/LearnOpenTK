@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using OpenTK.Graphics.OpenGL;
 
-namespace Chapter1_2
+namespace Chapter1_2_3
 {
     public class Shader : IDisposable
     {
